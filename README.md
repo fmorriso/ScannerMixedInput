@@ -5,4 +5,4 @@ This project shows one possible work-around: use two different scanners, one for
 
 Whenever text (String) input is needed from the keyboard, we use the scanner designated for only reading Strings.
 
-Whenver a number (int, double) input is needed from the keyboard, we use the scanner designated for only reading numbers.
+Whenver a number (int, double) is needed from the keyboard, we use the scanner designated for only reading numbers.
